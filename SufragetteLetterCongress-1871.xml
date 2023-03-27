@@ -193,8 +193,8 @@
             allowed no vote and therefore no representation cannot truly be heard except as Congress
             shall open its doors to us in person.</p>
          <closer>
-            <signed> <lb/><persName key="Stanton, Elizabeth Cady, 1815-1902" ref="http://viaf.org/viaf/22937739/"><persName key="Elizabeth Cady Stanton" ref="http://www.wikidata.org/entity/Q465335">Elizabeth Cady Stanton</persName></persName>
-         <lb/><persName key="Hooker, Isabella Beecher, 1822-1907" ref="http://viaf.org/viaf/13591703/">Isabella Beecher Hooker</persName>
+            <signed> <persName key="Stanton, Elizabeth Cady, 1815-1902" ref="http://viaf.org/viaf/22937739/"><persName key="Elizabeth Cady Stanton" ref="http://www.wikidata.org/entity/Q465335">Elizabeth Cady Stanton</persName></persName>
+         <persName key="Hooker, Isabella Beecher, 1822-1907" ref="http://viaf.org/viaf/13591703/">Isabella Beecher Hooker</persName>
          <lb/><persName key="Bladen, Elizabeth S." ref="http://viaf.org/viaf/12041742/">Elizabeth S. Bladen</persName>
          <lb/><persName key="Brown, Olympia, 1835-1926" ref="http://viaf.org/viaf/47848852/">Olympia Brown</persName>
          <lb/><persName key="Anthony, Susan B. (Susan Brownell), 1820-1906" ref="http://viaf.org/viaf/27864812/">Susan B. Anthony</persName>
