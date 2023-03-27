@@ -133,7 +133,6 @@
 	"id": "https://raw.githubusercontent.com/ilovan/LEAF-Writer-demo-texts/main/SufragetteLetterCongress-1871.xml?person_annotation_20220912164930716",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-09-12T22:49:30.716Z",
-	"dcterms:modified": "2022-09-12T22:49:30.716Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -159,7 +158,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ilovan/LEAF-Writer-demo-texts/main/SufragetteLetterCongress-1871.xml?person_annotation_20220912164930716#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/closer/signed/figure/persName/persName"
+			"rdf:value": "TEI/text/body/closer/signed/persName/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -194,12 +193,12 @@
             allowed no vote and therefore no representation cannot truly be heard except as Congress
             shall open its doors to us in person.</p>
          <closer>
-            <signed><figure> <persName key="Stanton, Elizabeth Cady, 1815-1902" ref="http://viaf.org/viaf/22937739/"><persName key="Elizabeth Cady Stanton" ref="http://www.wikidata.org/entity/Q465335">Elizabeth Cady Stanton</persName></persName>
+            <signed><persName key="Stanton, Elizabeth Cady, 1815-1902" ref="http://viaf.org/viaf/22937739/"><persName key="Elizabeth Cady Stanton" ref="http://www.wikidata.org/entity/Q465335">Elizabeth Cady Stanton</persName></persName>
          <persName key="Hooker, Isabella Beecher, 1822-1907" ref="http://viaf.org/viaf/13591703/">Isabella Beecher Hooker</persName>
          <lb/><persName key="Bladen, Elizabeth S." ref="http://viaf.org/viaf/12041742/">Elizabeth S. Bladen</persName>
          <lb/><persName key="Brown, Olympia, 1835-1926" ref="http://viaf.org/viaf/47848852/">Olympia Brown</persName>
          <lb/><persName key="Anthony, Susan B. (Susan Brownell), 1820-1906" ref="http://viaf.org/viaf/27864812/">Susan B. Anthony</persName>
-         <lb/><persName key="Josephine Sophia White Griffing" ref="http://www.wikidata.org/entity/Q6288447">Josephine S. Griffing</persName></figure></signed>
+         <lb/><persName key="Josephine Sophia White Griffing" ref="http://www.wikidata.org/entity/Q6288447">Josephine S. Griffing</persName></signed>
          <dateline><placeName key="Hartford, Connecticut" ref="http://dbpedia.org/resource/Hartford,_Connecticut"><placeName key="Hartford Connecticut United States" ref="https://geonames.org/4835797">Hartford</placeName></placeName> <placeName key="Connecticut" ref="http://dbpedia.org/resource/Connecticut">Conn</placeName>.
          <lb/><date when="1871">Dec. 1871</date></dateline>
          </closer></body>
