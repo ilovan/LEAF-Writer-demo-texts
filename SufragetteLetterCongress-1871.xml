@@ -184,7 +184,7 @@
          
          <p>The undersigned, Citisens of the <orgName key="United States" ref="http://dbpedia.org/resource/United_States">United States</orgName>, believing that under the present <title key="United States Constitution" ref="http://www.wikidata.org/entity/Q11698">Federal
             Constitution</title> all women who are citisens of the <placeName key="United States" ref="http://dbpedia.org/resource/United_States">United States</placeName> have the right to vote,
-            pray your <biblFull/>Honorable Body to enact a law during the present session that shall assist and
+            pray your <biblFull><titleStmt><title></title></titleStmt></biblFull>Honorable Body to enact a law during the present session that shall assist and
             protect them in the exercise of that right.</p><p>And they pray further that they may be permitted in person, and in behalf of the
             thousands of other women who are petitioning Congress to the same effect to be heard
             upon this Memmorial before the Senate and House at an early day in the present
